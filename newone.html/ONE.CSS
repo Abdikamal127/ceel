@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: #2b755a; */
+/* background-image: linear-gradient(62deg, #2b755a 0%, #1c2222 100%); */
+/* background-repeat: no-repeat; */
+/* background-attachment: fixed; */
+}
+.contener{
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    gap: 40px;
+    transform: translateY(0px);
+    background-color: rgb(229, 214, 214);   
+}
+a{
+    transform: translatex(580px);
+    padding: 2px;
+    /* color: gray; */
+    text-decoration: none;
+    margin: 7px;  
+}
+ul li {
+    display: block;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    transform: translateX(450px);
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(126, 0, 0)
+}
+h2 img{
+ width: 110px;
+ transform: translateY(0px);
+ margin: 10px;
+ border-radius: 30px;
+}
+.menu{
+    justify-content: space-between; 
+    display: flex;
+    align-items: center;
+    /* display: contents; */
+}
+img{
+    transform: translateX(-10px);
+    position: relative;
+    width: 400px;
+    margin-right: 40px;
+    transform: translateY(-60px);
+}
+.MAIN{
+    align-items: center;
+transform: translateX(200px);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    padding: 50px;
+    margin: 150px;
+    margin-top:-30px;
+}
+span{
+    color: rgb(49, 25, 62);
+    font-size: 26px;
+}
+h1{
+    font-size: 50px;
+    color: yellowgreen;
+}
+h5{
+text-transform: uppercase;
+font-size: 25px;
+}
+h4{
+    margin-top: 30px;
+    color: dodgerblue;
+    font-size: 27px;
+}
+h5{
+    font-size: 35px;
+     text-transform: uppercase;
+     color:darkred;
+}
+h6{
+    font-size:35px;
+    margin-top:50px;
+    color: orangered;
+}
+button{
+    background-color: violet;
+    /* color: white; */
+    color: greenyellow;
+    font-weight: 600;
+    font-size: 20px;
+    transition: 0.3s;
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;  
+    margin-top: 50px;
+}
+button:hover{
+    font-size: 30px;
+    transition: 0.3s;
+    background-color: darkslateblue;
+    border: none;
+}
+    .footer a{
+margin-top: -80px;
+ margin: 20px;
+}
+.footer{
+    background-color: rgb(229, 214, 214);
+    margin-top: -45px;
+}
+h3{
+    /* margin-top: -0px; */
+    color: darkgreen;
+    padding: 10px;
+}
+
+
+
+
+
