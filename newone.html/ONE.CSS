@@ -122,6 +122,21 @@ h3{
     color: darkgreen;
     padding: 10px;
 }
+@media  (max-width: 768px){
+    .contener{
+        display: none;
+        /* background-color: lightslategray; */
+    }
+.footer{
+    display: none;
+}
+
+}
+
+    
+
+    
+    
 
 
 
